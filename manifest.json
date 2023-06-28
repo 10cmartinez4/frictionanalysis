@@ -1,0 +1,8 @@
+{
+  "name": "Friction Analysis",
+  "description": "Analayze user friction straight from your browser",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs", "webNavigation"]
+  }
+}
